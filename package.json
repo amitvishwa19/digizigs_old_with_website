@@ -40,7 +40,7 @@
         "laravel-echo": "^1.5.3",
         "laravel-vue-pagination": "^2.2.0",
         "moment": "^2.22.2",
-        "moment-timezone": "^0.5.21",
+        "moment-timezone": "^0.5.35",
         "npm": "^6.4.1",
         "nprogress": "^0.2.0",
         "pnotify": "^4.0.0",
